@@ -21,7 +21,7 @@ if __name__ == '__main__':
         p.start()       #运行进程
 
     # # 等待所有子进程运行完毕才继续执行
-    # for pro in pro_list:
-    #     pro.join()          #阻塞主进程
+    for pro in pro_list:
+        pro.join()          #阻塞主进程
 
     print(time.ctime())
