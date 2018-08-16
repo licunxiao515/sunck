@@ -17,7 +17,8 @@ if __name__ == '__main__':
         #创建一个子进程
         p = Process(target=foo,args=(i,))   #Process函数,target进程函数对象，args传入的是元祖
         pro_list.append(p)      #把子进程收集起来
-        p.daemon = False  # 默认daemon 是False，等待子进程   如果设置为True,主进程不等子进程执行完毕就结束
+        p.daemon = False  # 默认daemon 是False，等待子进程
+        # 如果设置为True,主进程不等子进程执行完毕就结束,如果不设置join阻塞，主进程执行完毕后程序结束
         p.start()       #运行进程
 
     # # 等待所有子进程运行完毕才继续执行
