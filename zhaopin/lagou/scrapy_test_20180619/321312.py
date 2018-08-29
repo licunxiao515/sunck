@@ -1,0 +1,10 @@
+"Host": "www.lagou.com",
+"Connection": "keep-alive",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+"Content-type": "application/json;charset=utf-8",
+"Accept": "*/*",
+"Referer": "https://www.lagou.com/",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "zh-CN,zh;q=0.9",
+"Cookie": "JSESSIONID=ABAAABAACEBACDG484DE8B7833321D5A1672A1088B52073; Hm_lvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1531201023; Hm_lpvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1531201023; _ga=GA1.2.1248499037.1531201023; _gat=1; user_trace_token=20180710133703-46257931-8403-11e8-993d-5254005c3644; LGSID=20180710133703-46257b11-8403-11e8-993d-5254005c3644; PRE_UTM=; PRE_HOST=; PRE_SITE=; PRE_LAND=https%3A%2F%2Fwww.lagou.com%2F; LGRID=20180710133703-46257c32-8403-11e8-993d-5254005c3644; LGUID=20180710133703-46257cc7-8403-11e8-993d-5254005c3644; _gid=GA1.2.313875707.1531201023",
+
